@@ -1,2 +1,3 @@
-# Qt-CPP
-Qt/C++ components and module
+## ethernet watching 
+
+connect and disconnect cable to ethernet 
